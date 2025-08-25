@@ -1,0 +1,12 @@
+{
+  "name": "ph",
+  "version": "3.2.3-beta-test",
+  "description": "The Polyglot Assistant for Git & DevOps Workflows",
+  "homepage": "https://github.com/phkaiser13/Peitch",
+  "license": "Apache-2.0",
+  "dependencies": [
+    "curl",
+    "lua",
+    "nlohmann-json"
+  ]
+}
